@@ -1,0 +1,6 @@
+{
+  "name": "BuyJump",
+  "description": "BuyJump multi-vendor e-commerce marketplace for customers, sellers, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
